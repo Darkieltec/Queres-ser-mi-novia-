@@ -25,24 +25,8 @@ Este proyecto es una forma creativa y única de hacer esa pregunta especial. Uti
 
 
 ```bash
-git clone https://github.com/tu-usuario/quieres-ser-mi-novia.git
-cd quieres-ser-mi-novia
+https://github.com/Darkieltec/Queres-ser-mi-novia-.git
 ```
-
-## 🤝 Contribuir
-
-¿Tienes ideas para hacer esta propuesta aún más especial? ¡Las contribuciones son bienvenidas!
-
-1. 🍴 Haz un Fork del proyecto
-2. 🔨 Crea una nueva rama
-3. 📝 Realiza tus cambios
-4. 📌 Haz commit a tus cambios
-5. 🚀 Haz push a la rama
-6. 🎉 Crea un Pull Request
-
-## 📜 Licencia
-
-Este proyecto está bajo la licencia MIT - ve el archivo [LICENSE.md](LICENSE.md) para más detalles
 
 ## 💕 Créditos
 
